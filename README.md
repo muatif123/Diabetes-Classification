@@ -1,1 +1,1 @@
-![DC](readme-resources/diabetes-banner.png)
+![DC](diabetes-banner.png)
